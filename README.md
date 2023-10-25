@@ -10,3 +10,5 @@ Step 1: Complete the project
 Complete both steps below to finish the challenge.
 
 Step 2: Submit the code
+
+Database includes information on moons, stars, planets and galaxies
